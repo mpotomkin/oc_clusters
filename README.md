@@ -3,7 +3,7 @@ The code simulates dynamics of Nc = 32 cells on a degrading substrate with durot
 
  1. Build & Run "[seidel fully implicit] oc_cluster_2024.cpp" (that is, compile + ). The folder with this CPP file must contain the sub-folder "numerical_results"
  2. Run in MATLAB:
-         - "GA3video.m" to create video frames (requires sub-folder "figs/")
-         - "clusterNumbers" to indentify cell clusters and compute cluster numbers
+         (a) "GA3video.m" to create video frames (requires sub-folder "figs/");
+         (b) "clusterNumbers" to indentify cell clusters and compute cluster numbers.
 
      
